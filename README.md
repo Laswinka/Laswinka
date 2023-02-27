@@ -15,12 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Laswinka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/laswinka?t=qnD_x7ivOZeQIT1y22CxIA&s=09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Laswinka&icon=5&color=6)](https://visitcount.itsvg.in)
 
