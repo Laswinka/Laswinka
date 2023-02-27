@@ -1,4 +1,5 @@
-✌ About Me:
+ ✌ About Me:
+ 
 🔭 I’m currently working on game-dev<br>🤝 I’m looking for help with full stack web developer<br>🌱 I’m currently learning react.js<br>⚡ Fun fact - I work smart, not hard 👀
 
 
